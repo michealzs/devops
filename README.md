@@ -36,15 +36,3 @@ Features
 - Docker Image Cleanup: Remove unused Docker images.
 - Automated System Update: Update the system automatically.
 
-
-Usage
-Clone the repository:
-git clone https://github.com/your-username/devops-automation-scripts.git
-cd devops-automation-scripts
-
-Install Python dependencies:
-pip install -r requirements.txt
-
-Run the script:
-python3 devops_automation.py
-Follow the prompts to select and execute the desired operation.
